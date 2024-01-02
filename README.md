@@ -9,5 +9,5 @@ Rewebs menggunakan Flask untuk memberikan landasan yang kokoh dan fleksibilitas 
 
 # Documentation
 
-[https://flask.palletsprojects.com/en/3.0.x/](Flask Documentation)
-[https://docs.python.org/3/](Python Documentation)
+[Flask Documentation](https://flask.palletsprojects.com/en/3.0.x/)
+[Python Documentation](https://docs.python.org/3/)
