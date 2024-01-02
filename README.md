@@ -11,3 +11,7 @@ Rewebs menggunakan Flask untuk memberikan landasan yang kokoh dan fleksibilitas 
 
 [Flask Documentation](https://flask.palletsprojects.com/en/3.0.x/)
 [Python Documentation](https://docs.python.org/3/)
+
+# Development By
+
+[Azis Maulana - RAYDENFLY](https://github.com/RAYDENFLY/)
